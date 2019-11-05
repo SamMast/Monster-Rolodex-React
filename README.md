@@ -1,4 +1,4 @@
-#React Rolodex App with Search function
+# React Rolodex App with Search function
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
